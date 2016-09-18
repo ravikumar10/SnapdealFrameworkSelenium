@@ -5,6 +5,5 @@ public interface IConstant {
 	public String browser = "firefox";
 	public String filePath = "C:\\Users\\DEEPU\\workspace_OSW_14\\TakillaSeleniumFramework\\TestData\\takillaFrameWorkTestData.xlsx";
 
-	//public String filePath = "C:\\Users\\DEEPU\\workspace_OSW_14\\TakillaSeleniumFramework\\TestData\\takillaFrameWorkTestData.xlsx";
 
 }
